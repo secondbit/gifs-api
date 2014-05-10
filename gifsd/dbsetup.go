@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 
-	"github.com/secondbit/gifs/api"
+	"secondbit.org/gifs/api"
 
 	_ "github.com/go-sql-driver/mysql"
 )

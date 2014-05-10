@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/coreos/go-etcd/etcd"
-	"github.com/secondbit/gifs/api"
+	"secondbit.org/gifs/api"
 )
 
 var (

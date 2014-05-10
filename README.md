@@ -1,6 +1,6 @@
 
 # api
-    import "github.com/secondbit/gifs/api"
+    import "secondbit.org/gifs/api"
 
 
 

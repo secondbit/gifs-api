@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/secondbit/gifs/api"
+	"secondbit.org/gifs/api"
 
 	"github.com/coreos/go-etcd/etcd"
 	"github.com/gorilla/mux"
