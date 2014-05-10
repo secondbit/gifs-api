@@ -3,7 +3,7 @@ package api
 import (
 	"database/sql"
 
-	"github.com/secondbit/pan"
+	"secondbit.org/pan"
 )
 
 const (
